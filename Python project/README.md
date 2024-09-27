@@ -1,3 +1,3 @@
 # Python_Amazon_Sales_Analysis
 
-Python project- Analyze Amazon sales data to check the buyers preferred choice in the sales
+This project involves analyzing an "Amazon Sale Report" dataset containing 128,976 records with 21 columns, later reduced to 19 after removing irrelevant data. Using Python and libraries like Pandas, NumPy, and Seaborn, the data was cleaned, explored, and visualized. Key tasks include handling missing values, converting data types, and summarizing data using descriptive statistics. Exploratory Data Analysis (EDA) revealed insights on product size distribution, order statuses, and fulfillment channels. Visualizations such as histograms, bar charts, and pie charts highlight trends like popular product sizes (M, L, XL) and shipping patterns.
